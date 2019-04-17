@@ -1,0 +1,22 @@
+James Taylor added to Member Database
+John Smith added to Member Database
+Failure to modify, member doesn't exist.
+Failure to modify, member doesn't exist.
+Failure to modify, member doesn't exist.
+Failed to remove member ID10000006 doesn't exist.
+Failure to modify, member doesn't exist.
+Mary Wilson added to Member Database
+Sarah Wilson added to Member Database
+George Williams added to Member Database
+
+Failure to modify, member doesn't exist.
+Failure to add, George Wilson already exists
+10000010 was removed from database
+Failed to remove member, ID 10000007 doesn't exist.
+William Moore added to Member Database
+Failure to modify, member doesn't exist.
+Failure to modify, member doesn't exist.
+Failure to modify, member doesn't exist.
+Failure to add, Mary Williams already exists
+Failed to remove member, ID 10000003 doesn't exist.
+
